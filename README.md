@@ -6,6 +6,8 @@
 
 ## Usage
 
+**Jetpack** uses folders *src*, *test*, *dist* to store source files, test files and distribution files respectively.
+
 ```bash
 git clone git@github.com:ramadis/jetpack.git
 ```
